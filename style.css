@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing:border-box;
+}
+body{
+    background-color: orange;
+}
+div{
+    border-radius: 10%;
+    display: block;
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-items: auto;
+    max-width: 25%;
+    margin-left: 38%;
+}
+.wrapper{
+    box-sizing: content-box;
+    margin-top: 10%;
+    height: 500px;
+}
+span{
+    margin-top: 10%;
+    font-size: 50px;
+}
+button{ 
+    margin-top: 100px;
+    font-size: 25px;
+    background-color: orange;
+    border-radius: 10%;
+    cursor: pointer;
+}
