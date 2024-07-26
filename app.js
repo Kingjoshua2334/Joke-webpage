@@ -1,7 +1,7 @@
 const url ="https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political"
 const joke = document.getElementById("joke");
 const btn = document.getElementById("btn");
-
+//gghjjkjkklhjjk
 let getJoke=()=>{
 fetch(url)
 .then(data =>data.json())
